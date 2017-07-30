@@ -1,5 +1,5 @@
 require "schnell/version"
+require "schnell/builder"
 
 module Schnell
-  # Your code goes here...
 end
